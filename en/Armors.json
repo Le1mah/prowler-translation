@@ -1,82 +1,80 @@
-[
-  {
-    "---ARMOUR---": {
-      "message": "---ARMOUR---"
-    },
-    "---UNDERGARMENTS---": {
-      "message": "---UNDERGARMENTS---"
-    },
-    "<WordWrap>\\c[18]Bowgun\\c[0] \\c[21]Protected\\c[0] - Linked Light Bowgun.\n<br>A rudimentry, but powerful ranged weapon.": {
-      "message": "<WordWrap>\\c[18]Bowgun\\c[0] \\c[21]Protected\\c[0] - Linked Light Bowgun.\n<br>A rudimentry, but powerful ranged weapon."
-    },
-    "<WordWrap>\\c[29]Binding\\c[0] - The telltale signs of an escaped beast yet to be tamed. Impossible to remove by hand.": {
-      "message": "<WordWrap>\\c[29]Binding\\c[0] - The telltale signs of an escaped beast yet to be tamed. Impossible to remove by hand."
-    },
-    "GenericArmour": {
-      "message": "GenericArmour"
-    },
-    "Shield": {
-      "message": "Shield"
-    },
-    "\\c[17]Armour\\c[0] - Roughly made mask.": {
-      "message": "\\c[17]Armour\\c[0] - Roughly made mask."
-    },
-    "\\c[17]Armour\\c[0] - Roughly made tassets.": {
-      "message": "\\c[17]Armour\\c[0] - Roughly made tassets."
-    },
-    "\\c[17]Armour\\c[0] - Roughly made vambraces.": {
-      "message": "\\c[17]Armour\\c[0] - Roughly made vambraces."
-    },
-    "\\c[17]Armour\\c[0] - Roughly made vest.": {
-      "message": "\\c[17]Armour\\c[0] - Roughly made vest."
-    },
-    "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - A necklace with a small claw. Your first hunt.": {
-      "message": "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - A necklace with a small claw. Your first hunt."
-    },
-    "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - Your own hand-woven undergarments. Comfy!": {
-      "message": "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - Your own hand-woven undergarments. Comfy!"
-    },
-    "\\c[17]Makeshift Mask\\c[0]": {
-      "message": "\\c[17]Makeshift Mask\\c[0]"
-    },
-    "\\c[17]Makeshift Tassets\\c[0]": {
-      "message": "\\c[17]Makeshift Tassets\\c[0]"
-    },
-    "\\c[17]Makeshift Vambraces\\c[0]": {
-      "message": "\\c[17]Makeshift Vambraces\\c[0]"
-    },
-    "\\c[17]Makeshift Vest\\c[0]": {
-      "message": "\\c[17]Makeshift Vest\\c[0]"
-    },
-    "\\c[17]Woven Necklace\\c[0]": {
-      "message": "\\c[17]Woven Necklace\\c[0]"
-    },
-    "\\c[17]Woven Unders\\c[0]": {
-      "message": "\\c[17]Woven Unders\\c[0]"
-    },
-    "\\c[18]Linked Light Bowgun": {
-      "message": "\\c[18]Linked Light Bowgun"
-    },
-    "\\c[29]Binding\\c[0] - An old net fired from a fellow Prowler's discarded trap.": {
-      "message": "\\c[29]Binding\\c[0] - An old net fired from a fellow Prowler's discarded trap."
-    },
-    "\\c[29]Binding\\c[0] - Inconvenient Scrap.": {
-      "message": "\\c[29]Binding\\c[0] - Inconvenient Scrap."
-    },
-    "\\c[29]Old Net Bindings": {
-      "message": "\\c[29]Old Net Bindings"
-    },
-    "\\c[29]Old Trap Armbinds": {
-      "message": "\\c[29]Old Trap Armbinds"
-    },
-    "\\c[29]Old Trap Chestbinds": {
-      "message": "\\c[29]Old Trap Chestbinds"
-    },
-    "\\c[29]Old Trap Leggings": {
-      "message": "\\c[29]Old Trap Leggings"
-    },
-    "\\c[29]Unnatural Metal Ring Piercings": {
-      "message": "\\c[29]Unnatural Metal Ring Piercings"
-    }
+{
+  "---ARMOUR---": {
+    "message": "---ARMOUR---"
+  },
+  "---UNDERGARMENTS---": {
+    "message": "---UNDERGARMENTS---"
+  },
+  "<WordWrap>\\c[18]Bowgun\\c[0] \\c[21]Protected\\c[0] - Linked Light Bowgun.\n<br>A rudimentry, but powerful ranged weapon.": {
+    "message": "<WordWrap>\\c[18]Bowgun\\c[0] \\c[21]Protected\\c[0] - Linked Light Bowgun.\n<br>A rudimentry, but powerful ranged weapon."
+  },
+  "<WordWrap>\\c[29]Binding\\c[0] - The telltale signs of an escaped beast yet to be tamed. Impossible to remove by hand.": {
+    "message": "<WordWrap>\\c[29]Binding\\c[0] - The telltale signs of an escaped beast yet to be tamed. Impossible to remove by hand."
+  },
+  "GenericArmour": {
+    "message": "GenericArmour"
+  },
+  "Shield": {
+    "message": "Shield"
+  },
+  "\\c[17]Armour\\c[0] - Roughly made mask.": {
+    "message": "\\c[17]Armour\\c[0] - Roughly made mask."
+  },
+  "\\c[17]Armour\\c[0] - Roughly made tassets.": {
+    "message": "\\c[17]Armour\\c[0] - Roughly made tassets."
+  },
+  "\\c[17]Armour\\c[0] - Roughly made vambraces.": {
+    "message": "\\c[17]Armour\\c[0] - Roughly made vambraces."
+  },
+  "\\c[17]Armour\\c[0] - Roughly made vest.": {
+    "message": "\\c[17]Armour\\c[0] - Roughly made vest."
+  },
+  "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - A necklace with a small claw. Your first hunt.": {
+    "message": "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - A necklace with a small claw. Your first hunt."
+  },
+  "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - Your own hand-woven undergarments. Comfy!": {
+    "message": "\\c[17]Armour\\c[0] \\c[21]Protected\\c[0] - Your own hand-woven undergarments. Comfy!"
+  },
+  "\\c[17]Makeshift Mask\\c[0]": {
+    "message": "\\c[17]Makeshift Mask\\c[0]"
+  },
+  "\\c[17]Makeshift Tassets\\c[0]": {
+    "message": "\\c[17]Makeshift Tassets\\c[0]"
+  },
+  "\\c[17]Makeshift Vambraces\\c[0]": {
+    "message": "\\c[17]Makeshift Vambraces\\c[0]"
+  },
+  "\\c[17]Makeshift Vest\\c[0]": {
+    "message": "\\c[17]Makeshift Vest\\c[0]"
+  },
+  "\\c[17]Woven Necklace\\c[0]": {
+    "message": "\\c[17]Woven Necklace\\c[0]"
+  },
+  "\\c[17]Woven Unders\\c[0]": {
+    "message": "\\c[17]Woven Unders\\c[0]"
+  },
+  "\\c[18]Linked Light Bowgun": {
+    "message": "\\c[18]Linked Light Bowgun"
+  },
+  "\\c[29]Binding\\c[0] - An old net fired from a fellow Prowler's discarded trap.": {
+    "message": "\\c[29]Binding\\c[0] - An old net fired from a fellow Prowler's discarded trap."
+  },
+  "\\c[29]Binding\\c[0] - Inconvenient Scrap.": {
+    "message": "\\c[29]Binding\\c[0] - Inconvenient Scrap."
+  },
+  "\\c[29]Old Net Bindings": {
+    "message": "\\c[29]Old Net Bindings"
+  },
+  "\\c[29]Old Trap Armbinds": {
+    "message": "\\c[29]Old Trap Armbinds"
+  },
+  "\\c[29]Old Trap Chestbinds": {
+    "message": "\\c[29]Old Trap Chestbinds"
+  },
+  "\\c[29]Old Trap Leggings": {
+    "message": "\\c[29]Old Trap Leggings"
+  },
+  "\\c[29]Unnatural Metal Ring Piercings": {
+    "message": "\\c[29]Unnatural Metal Ring Piercings"
   }
-]
+}
